@@ -1,0 +1,24 @@
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+.env
+.env.*
+__snapshots__
+*.jsx.snap
+coverage
+
+# Directories terraform
+.terraform/
+infrastructure/.terraform/
+
+# Code editors
+.vscode/
+.idea/*
+
+build/
+dist/
+node_modules/
+.secret-*
+**.sample
