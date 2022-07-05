@@ -1,7 +1,7 @@
 <br />
 <p align="center">
 
-<h3 align="center">AWS Terraform Demo</h3>
+<h3 align="center">Cloudfront distribution with Terraform</h3>
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
